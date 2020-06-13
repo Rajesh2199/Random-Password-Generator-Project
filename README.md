@@ -1,5 +1,8 @@
 # Random-Password-Generator-Project
-This repo contains files for entire code used in creating a random password generator application.
+This repo contains files for entire code used in creating a random password generator application.As of the time of upload, this project is not fully complete. The code still needs to be fine tuned and a few functions need to be configured.
+I have requested a Tutor assistance becuase I am unable to complete the project on my on. Once I get all the assistance needed from the tutor, I will finish this project and upload a final working version on Monday( 15th of June 2020).
+
+
 
 
 
